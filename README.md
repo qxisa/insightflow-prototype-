@@ -74,7 +74,7 @@ InsightFlow is a web-based application that allows users to upload data files an
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd insightflow-prototype-
+cd <repository-directory>
 ```
 
 2. Install dependencies:
